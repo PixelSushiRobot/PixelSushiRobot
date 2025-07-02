@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![PixelSushiRobot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PixelSushiRobot&show_icons=true&theme=transparent)
+![PixelSushiRobot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PixelSushiRobot&show_icons=true)
 <!--
 **PixelSushiRobot/PixelSushiRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
