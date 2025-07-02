@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![PixelSushiRobot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PixelSushiRobot&show_icons=true)
+[![PixelSushiRobot's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PixelSushiRobot&show_icons=true&hide_rank=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![PixelSushiRobot's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PixelSushiRobot&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--
 **PixelSushiRobot/PixelSushiRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
